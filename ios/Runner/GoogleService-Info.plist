@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>CLIENT_ID</key>
+	<string>589846735931-6qsv2sq2ev439s8k30he3u5pes6j489e.apps.googleusercontent.com</string>
+	<key>REVERSED_CLIENT_ID</key>
+	<string>com.googleusercontent.apps.589846735931-6qsv2sq2ev439s8k30he3u5pes6j489e</string>
+	<key>ANDROID_CLIENT_ID</key>
+	<string>589846735931-c6dflds8ddlnrtudohbl16a525jj77qj.apps.googleusercontent.com</string>
+	<key>API_KEY</key>
+	<string>AIzaSyCAoDpwfPSWD6VYFcrTNS33Pao8QYflmdo</string>
+	<key>GCM_SENDER_ID</key>
+	<string>589846735931</string>
+	<key>PLIST_VERSION</key>
+	<string>1</string>
+	<key>BUNDLE_ID</key>
+	<string>com.example.cabdriver</string>
+	<key>PROJECT_ID</key>
+	<string>cab-rider-35e1c</string>
+	<key>STORAGE_BUCKET</key>
+	<string>cab-rider-35e1c.appspot.com</string>
+	<key>IS_ADS_ENABLED</key>
+	<false></false>
+	<key>IS_ANALYTICS_ENABLED</key>
+	<false></false>
+	<key>IS_APPINVITE_ENABLED</key>
+	<true></true>
+	<key>IS_GCM_ENABLED</key>
+	<true></true>
+	<key>IS_SIGNIN_ENABLED</key>
+	<true></true>
+	<key>GOOGLE_APP_ID</key>
+	<string>1:589846735931:ios:0b5afaacb394c538c8c01e</string>
+	<key>DATABASE_URL</key>
+	<string>https://cab-rider-35e1c-default-rtdb.firebaseio.com</string>
+</dict>
+</plist>
